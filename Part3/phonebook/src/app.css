@@ -1,0 +1,14 @@
+.error {
+    color: green;
+    background-color: rgb(197, 194, 194);
+    border-radius: 4px;
+    border: 2px solid green;
+    font-size: 20px;
+}
+.badError {
+    color: red;
+    background-color: rgb(197, 194, 194);
+    border-radius: 4px;
+    border: 2px solid red;
+    font-size: 20px;
+}
